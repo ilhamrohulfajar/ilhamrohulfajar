@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=8DA399&random=false&width=1400&height=100&lines=Hi%2C+I'm+Ilham+Rohul+Fajar 👋;Informatics+Engineer+Graduate;IT+Support+Specialist;Bass+Enthusiast;Bloom+in+every+byte..." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=8DA399&height=200&section=header&text=Ilham%20Rohul%20Fajar&fontSize=70&animation=fadeIn&fontAlignY=45" width="100%" />
   
   <p align="center">
-    <strong>Bridging Engineering Logic with Functional Aesthetics</strong>
+    <strong>Informatics Engineering Graduate | IT Support Specialist | Bassist</strong>
   </p>
 
   <p align="center">
@@ -11,6 +11,9 @@
     </a>
     <a href="https://instagram.com/ilhamrohulfajar" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://wa.me/628123456789" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
   </p>
 </div>
@@ -22,7 +25,7 @@
 Bridging engineering logic with functional aesthetics. I'm an **Informatics Engineering** graduate from **Universitas Indraprasta PGRI (UNINDRA)** with a GPA of **3.48**. My focus lies in building reliable desktop systems and maintaining seamless IT infrastructures.
 
 - 🎓 **Education:** S1 Teknik Informatika @ UNINDRA.
-- 🛠️ **Current Focus:** Enhancing Java-based desktop solutions and database integrity.
+- 🛠️ **Current Focus:** Java-based desktop solutions and database integrity.
 - ⚙️ **Professional:** Skilled in IT Support, Hardware Troubleshooting, and Data Migration.
 - 🎸 **Vibe:** Slapping some bass and analyzing Arctic Monkeys' lyrics.
 - 🥀 **Philosophy:** *"Bloom in every byte."*
@@ -64,13 +67,9 @@ Bridging engineering logic with functional aesthetics. I'm an **Informatics Engi
 
 ### 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilhamrohulfajar&show_icons=true&theme=nord&hide_border=true&title_color=8DA399&icon_color=8DA399&text_color=text" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamrohulfajar&layout=compact&theme=nord&hide_border=true&title_color=8DA399&text_color=text" width="45%" alt="Top Languages" />
-</p>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJqdnB4bnpxNDVsbDk4Z3Z3bm9wYXpzOXpxMXlxMXlxMXlxMXdxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8V35C/giphy.gif" width="400" alt="Coding GIF" />
+  <img src="https://img.shields.io/badge/Main_Stats-Loading_from_external_server...-8DA399?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Top_Langs-Nord_Theme-8DA399?style=for-the-badge" />
 </div>
 
 ---
