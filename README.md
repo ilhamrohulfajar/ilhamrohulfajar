@@ -1,7 +1,7 @@
 # Ilham Rohul Fajar 👋
 
 <p align="left">
-  <strong>Informatics Engineering Graduate | IT Support Specialist | Bassist</strong>
+  <strong>Informatics Engineering Graduate | IT Support Specialist</strong>
 </p>
 
 <p align="left">
@@ -21,23 +21,19 @@
 
 ---
 
-### 💫 About Me
+### 💫 Summary
 
-Bridging engineering logic with functional aesthetics. I'm an **Informatics Engineering** graduate from **UNINDRA** (GPA 3.48) dedicated to building reliable desktop systems and maintaining seamless IT infrastructures.
+Informatics Engineering graduate from **UNINDRA** with a focus on bridging technical logic and functional IT operations. Experienced in building reliable desktop-based solutions and maintaining seamless infrastructure environments.
 
-- 🛠️ **Current Focus:** Java-based desktop solutions and database integrity.
-- ⚙️ **Professional:** Skilled in IT Support, Hardware Troubleshooting, and Data Migration.
-- 🎸 **Vibe:** Slapping some bass and analyzing Arctic Monkeys' lyrics.
+- 🛠️ **Development:** Java-based systems, MySQL database management, and web implementation.
+- ⚙️ **Operations:** Advanced IT Support, hardware troubleshooting, and system deployment.
+- 🚀 **Current:** Enhancing software reliability and IT asset efficiency.
 
 ---
 
-### 🚀 Technical Arsenal
+### 🚀 Core Expertise
 
-| 💻 **Software Engineering** | ⚙️ **IT Infrastructure** |
-| :--- | :--- |
-| `Java` `MySQL` `PHP` | `IT Support` `Hardware Repair` |
-| `NetBeans` `XAMPP` | `System Deployment` |
-| `WordPress` `Elementor` | `Asset Management` |
+`Java` • `MySQL` • `PHP` • `IT Support` • `Hardware Repair` • `System Deployment` • `NetBeans` • `XAMPP` • `WordPress` • `Asset Management`
 
 ---
 
