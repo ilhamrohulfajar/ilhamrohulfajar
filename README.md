@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=8DA399&random=false&width=1000&height=100&lines=Hi%2C+I'm+Ilham+Rohul+Fajar 👋;Informatics+Engineer+Graduate;IT+Support+Specialist;Bass+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=8DA399&center=true&vCenter=true&width=1000&height=70&lines=Hi%2C+I'm+Ilham+Rohul+Fajar 👋;Informatics+Engineer+Graduate;IT+Support+Specialist;Bass+Enthusiast" alt="Typing SVG" />
   
+  <br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG56ZnduNXpueG56ZnduNXpueG56ZnduNXpueG56ZnduNXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Jsh76ebLpxMk7H6vV0/giphy.gif" width="150" />
+  <br/>
+
   <p align="center">
     <strong>Bridging Engineering Logic with Functional Aesthetics</strong>
   </p>
@@ -40,7 +44,7 @@ Bridging engineering logic with functional aesthetics. I'm an **Informatics Engi
   <table width="100%">
     <tr>
       <td width="50%" align="left" valign="top">
-        <img src="https://img.shields.io/badge/DEVELOPMENT-%232D2D2D?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/DEVELOPMENT-%232D2D2D?style=for-the-badge" />
         <br/><br/>
         <b>💻 Software Engineering</b>
         <ul>
@@ -51,7 +55,7 @@ Bridging engineering logic with functional aesthetics. I'm an **Informatics Engi
         </ul>
       </td>
       <td width="50%" align="left" valign="top">
-        <img src="https://img.shields.io/badge/OPERATIONS-%232D2D2D?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/OPERATIONS-%232D2D2D?style=for-the-badge" />
         <br/><br/>
         <b>⚙️ IT Infrastructure</b>
         <ul>
