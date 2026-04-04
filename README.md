@@ -1,79 +1,62 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=8DA399&center=true&vCenter=true&width=1000&height=70&lines=Hi%2C+I'm+Ilham+Rohul+Fajar 👋;Informatics+Engineer+Graduate;IT+Support+Specialist;Bass+Enthusiast" alt="Typing SVG" />
-  
-  <br/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG56ZnduNXpueG56ZnduNXpueG56ZnduNXpueG56ZnduNXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Jsh76ebLpxMk7H6vV0/giphy.gif" width="150" />
-  <br/>
+# Rafael Martins 👋
+# Ilham Rohul Fajar 👋
 
-  <p align="center">
-    <strong>Bridging Engineering Logic with Functional Aesthetics</strong>
-  </p>
-
-  <p align="center">
-    <a href="https://linkedin.com/in/ilhamrohulfajar" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://instagram.com/ilhamrohulfajar" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-  </p>
-</div>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      🚀 <b>Skills:</b> Java | MySQL (XAMPP) | PHP | WordPress | NetBeans
+    </td>
+    <td valign="top" width="50%">
+      🎓 <b>Education:</b> S1 Teknik Informatika @ UNINDRA (GPA 3.48)
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      ⚙️ <b>Experience:</b> IT Support | Hardware Repair | System Deployment
+    </td>
+    <td valign="top" width="50%">
+      💼 <b>Status:</b> Open for IT Support & Software Engineering roles
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 💫 About Me
 
-Bridging engineering logic with functional aesthetics. I'm an **Informatics Engineering** graduate from **Universitas Indraprasta PGRI (UNINDRA)** with a GPA of **3.48**. My focus lies in building reliable desktop systems and maintaining seamless IT infrastructures.
+Bridging engineering logic with functional aesthetics. I'm a graduate dedicated to building reliable desktop systems and maintaining seamless IT infrastructures.
 
-- 🎓 **Education:** S1 Teknik Informatika @ UNINDRA.
-- 🛠️ **Current Focus:** Java-based desktop solutions and database integrity.
-- ⚙️ **Professional:** Skilled in IT Support, Hardware Troubleshooting, and Data Migration.
-- 🎸 **Vibe:** Slapping some bass and analyzing Arctic Monkeys' lyrics.
+- 🎓 **Focus:** Developing robust Java-based solutions and database integrity.
+- 🛠️ **Expertise:** Hands-on experience in hardware troubleshooting and data migration.
+- 🎸 **Side Quest:** Slapping some bass and analyzing Arctic Monkeys' lyrics.
+- 🥀 **Philosophy:** *"Bloom in every byte."*
 
 ---
 
 ### 🚀 Technical Arsenal
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,php,wordpress,netbeans,windows,git,github,vscode,linux" />
-</div>
+| 💻 Software Engineering | ⚙️ IT Infrastructure |
+| :--- | :--- |
+| **Java Stack** — NetBeans IDE | **IT Support** — Advanced Troubleshooting |
+| **Database** — MySQL via XAMPP | **Hardware** — Repair & Maintenance |
+| **Web Logic** — PHP Implementation | **Deployment** — System Implementation |
+| **CMS** — WordPress & Elementor | **Management** — Asset & Inventory |
 
-<br/>
+---
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="left" valign="top">
-        <img src="https://img.shields.io/badge/DEVELOPMENT-%232D2D2D?style=for-the-badge" />
-        <br/><br/>
-        <b>💻 Software Engineering</b>
-        <ul>
-          <li><strong>Java Stack</strong> — NetBeans Environment</li>
-          <li><strong>Database</strong> — MySQL via XAMPP Server</li>
-          <li><strong>Web Logic</strong> — PHP Implementation</li>
-          <li><strong>CMS</strong> — WordPress & Elementor</li>
-        </ul>
-      </td>
-      <td width="50%" align="left" valign="top">
-        <img src="https://img.shields.io/badge/OPERATIONS-%232D2D2D?style=for-the-badge" />
-        <br/><br/>
-        <b>⚙️ IT Infrastructure</b>
-        <ul>
-          <li><strong>IT Support</strong> — Advanced Troubleshooting</li>
-          <li><strong>Hardware</strong> — Repair & Maintenance</li>
-          <li><strong>Deployment</strong> — System Implementation</li>
-          <li><strong>Management</strong> — Asset & Inventory</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+### 📬 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/ilhamrohulfajar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/ilhamrohulfajar" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
-  <br/>
   <p><i>Dedicated to the memory of my beloved Mother.</i></p>
-  
-  <img src="https://komarev.com/ghpvc/?username=ilhamrohulfajar&label=Profile%20Views&color=8DA399&style=flat-square" alt="Visitor Counter" />
 </div>
