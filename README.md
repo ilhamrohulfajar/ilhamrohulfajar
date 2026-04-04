@@ -1,4 +1,3 @@
-
 # Ilham Rohul Fajar 👋
 
 <table>
@@ -24,12 +23,11 @@
 
 ### 💫 About Me
 
-Bridging engineering logic with functional aesthetics. I'm a graduate dedicated to building reliable desktop systems and maintaining seamless IT infrastructures.
+Bridging engineering logic with functional aesthetics. I'm an **Informatics Engineering** graduate dedicated to building reliable desktop systems and maintaining seamless IT infrastructures.
 
 - 🎓 **Focus:** Developing robust Java-based solutions and database integrity.
 - 🛠️ **Expertise:** Hands-on experience in hardware troubleshooting and data migration.
 - 🎸 **Side Quest:** Slapping some bass and analyzing Arctic Monkeys' lyrics.
-- 🥀 **Philosophy:** *"Bloom in every byte."*
 
 ---
 
@@ -48,15 +46,24 @@ Bridging engineering logic with functional aesthetics. I'm a graduate dedicated 
 
 <p align="left">
   <a href="https://linkedin.com/in/ilhamrohulfajar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-8DA399?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/ilhamrohulfajar" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-8DA399?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:ilhamrohulfajar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-8DA399?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://discordapp.com/users/dowsky">
+    <img src="https://img.shields.io/badge/Discord-8DA399?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
 ---
 
 <div align="center">
+  <br/>
   <p><i>Dedicated to the memory of my beloved Mother.</i></p>
+  
+  <img src="https://komarev.com/ghpvc/?username=ilhamrohulfajar&label=Profile%20Views&color=8DA399&style=flat-square" alt="Visitor Counter" />
 </div>
