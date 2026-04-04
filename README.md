@@ -32,7 +32,7 @@
 
 ### 🚀 Core Expertise
 
-`React.js` • `PHP` • `HTML` • `CSS` • `MySQL` • `Java` • `Gemini AI` • `Kiro AI` • `Software Development` • `System Deployment` • `WordPress` • `Asset Management`
+`React.js` • `PHP` • `HTML` • `CSS` • `MySQL` • `Java` • `Gemini AI` • `Kiro AI` • `Software Development` • `System Deployment` • `WordPress` • `Asset Management` • `JasperReport` • `JasperReport` • `Database Management` • 
 
 ---
 
