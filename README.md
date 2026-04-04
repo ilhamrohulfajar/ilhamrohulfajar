@@ -28,7 +28,6 @@ Bridging engineering logic with functional aesthetics. I'm an **Informatics Engi
 - 🛠️ **Current Focus:** Java-based desktop solutions and database integrity.
 - ⚙️ **Professional:** Skilled in IT Support, Hardware Troubleshooting, and Data Migration.
 - 🎸 **Vibe:** Slapping some bass and analyzing Arctic Monkeys' lyrics.
-- 🥀 **Philosophy:** *"Bloom in every byte."*
 
 ---
 
@@ -65,20 +64,8 @@ Bridging engineering logic with functional aesthetics. I'm an **Informatics Engi
 
 ---
 
-### 📊 GitHub Insights
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Main_Stats-Loading_from_external_server...-8DA399?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Top_Langs-Nord_Theme-8DA399?style=for-the-badge" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Bloom%20in%20every%20byte.&author=IRF&theme=nord" width="80%" />
-  
-  <br/><br/>
-  
+  <br/>
   <p><i>Dedicated to the memory of my beloved Mother.</i></p>
   
   <img src="https://komarev.com/ghpvc/?username=ilhamrohulfajar&label=Profile%20Views&color=8DA399&style=flat-square" alt="Visitor Counter" />
