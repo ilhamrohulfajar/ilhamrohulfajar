@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=8DA399&height=200&section=header&text=Ilham%20Rohul%20Fajar&fontSize=70&animation=fadeIn&fontAlignY=45" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=8DA399&random=false&width=1000&height=100&lines=Hi%2C+I'm+Ilham+Rohul+Fajar 👋;Informatics+Engineer+Graduate;IT+Support+Specialist;Bass+Enthusiast" alt="Typing SVG" />
   
   <p align="center">
-    <strong>Informatics Engineering Graduate | IT Support Specialist | Bassist</strong>
+    <strong>Bridging Engineering Logic with Functional Aesthetics</strong>
   </p>
 
   <p align="center">
