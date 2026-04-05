@@ -4,16 +4,16 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/ilham-rohul-fajar-029b822a4/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-FFBF00?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://instagram.com/ilhamrohulfajar" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-FF8C00?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="mailto:ilhamrohulfajar@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-FF6F00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://discordapp.com/users/dowsky">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+      <img src="https://img.shields.io/badge/Discord-FFBF00?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
   </p>
 </div>
@@ -32,19 +32,10 @@
 
 ### 🚀 Core Expertise
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+`React.js` • `PHP` • `HTML` • `CSS` • `MySQL` • `Java` • `Gemini AI` • `Kiro AI` • `Software Development` • `System Deployment` • `WordPress` • `Asset Management` • `JasperReport` • `Database Management` • 
 
 ---
-
+<meta name="google-site-verification" content="D9GKjyRQ_rcKY5XKnIsq6bpfO9pVVVAemRh0TEFS_LY" />
 <div align="center">
   <br/>
   <p><i>Dedicated to the memory of my beloved Mother.</i></p>
