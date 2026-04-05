@@ -3,9 +3,9 @@
   <p><strong>Bachelor of Computer Science | Software Engineer</strong></p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/ilham-rohul-fajar-029b822a4/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-FFBF00?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
+   <a href="https://www.linkedin.com/in/ilham-rohul-fajar-029b822a4/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-FFBF00?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
     <a href="https://instagram.com/ilhamrohulfajar" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-FF8C00?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
