@@ -35,7 +35,7 @@
 `React.js` • `PHP` • `HTML` • `CSS` • `MySQL` • `Java` • `Gemini AI` • `Kiro AI` • `Software Development` • `System Deployment` • `WordPress` • `Asset Management` • `JasperReport` • `JasperReport` • `Database Management` • 
 
 ---
-
+<meta name="google-site-verification" content="D9GKjyRQ_rcKY5XKnIsq6bpfO9pVVVAemRh0TEFS_LY" />
 <div align="center">
   <br/>
   <p><i>Dedicated to the memory of my beloved Mother.</i></p>
